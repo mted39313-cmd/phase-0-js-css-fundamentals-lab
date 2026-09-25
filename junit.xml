@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="48" failures="0" errors="0" time="0.815">
+  <testsuite name="CSS Lab Tests" errors="0" failures="0" skipped="0" timestamp="2026-09-25T09:05:01" time="0.747" tests="48">
+    <testcase classname="CSS Lab Tests should link the CSS file" name="CSS Lab Tests should link the CSS file" time="0.004">
+    </testcase>
+    <testcase classname="CSS Lab Tests Navigation Bar should set background color to #333" name="CSS Lab Tests Navigation Bar should set background color to #333" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Navigation Bar should set font size to 1.2em" name="CSS Lab Tests Navigation Bar should set font size to 1.2em" time="0">
+    </testcase>
+    <testcase classname="CSS Lab Tests Navigation Bar should add padding of 1em" name="CSS Lab Tests Navigation Bar should add padding of 1em" time="0">
+    </testcase>
+    <testcase classname="CSS Lab Tests Navigation Bar should center-align the text" name="CSS Lab Tests Navigation Bar should center-align the text" time="0">
+    </testcase>
+    <testcase classname="CSS Lab Tests Navigation Bar should set position to fixed" name="CSS Lab Tests Navigation Bar should set position to fixed" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Navigation Bar should set width to 100%" name="CSS Lab Tests Navigation Bar should set width to 100%" time="0">
+    </testcase>
+    <testcase classname="CSS Lab Tests Navigation Bar should set top to 0" name="CSS Lab Tests Navigation Bar should set top to 0" time="0">
+    </testcase>
+    <testcase classname="CSS Lab Tests Navigation Bar should set z-index to 1000" name="CSS Lab Tests Navigation Bar should set z-index to 1000" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Navigation Bar should set list-style to none" name="CSS Lab Tests Navigation Bar should set list-style to none" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Navigation Bar should set margin to 0 for ul" name="CSS Lab Tests Navigation Bar should set margin to 0 for ul" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Navigation Bar should set padding to 0 for ul" name="CSS Lab Tests Navigation Bar should set padding to 0 for ul" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Navigation Bar should set display to inline for li" name="CSS Lab Tests Navigation Bar should set display to inline for li" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Navigation Bar should add margin of 0 1em for li" name="CSS Lab Tests Navigation Bar should add margin of 0 1em for li" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Navigation Bar should set text color to #fff for a" name="CSS Lab Tests Navigation Bar should set text color to #fff for a" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Main Content should set padding-top to 5em for main content" name="CSS Lab Tests Main Content should set padding-top to 5em for main content" time="0">
+    </testcase>
+    <testcase classname="CSS Lab Tests Main Content should add padding of 2em 1em for sections" name="CSS Lab Tests Main Content should add padding of 2em 1em for sections" time="0">
+    </testcase>
+    <testcase classname="CSS Lab Tests Main Content should center-align the text for sections" name="CSS Lab Tests Main Content should center-align the text for sections" time="0">
+    </testcase>
+    <testcase classname="CSS Lab Tests Main Content should increase font size of h1 in #home to 2.5em" name="CSS Lab Tests Main Content should increase font size of h1 in #home to 2.5em" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Main Content should add margin-bottom of 0.5em for h1 in #home" name="CSS Lab Tests Main Content should add margin-bottom of 0.5em for h1 in #home" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Main Content should set paragraph font size to 1.2em in #home" name="CSS Lab Tests Main Content should set paragraph font size to 1.2em in #home" time="0">
+    </testcase>
+    <testcase classname="CSS Lab Tests Main Content should set paragraph color to #666 in #home" name="CSS Lab Tests Main Content should set paragraph color to #666 in #home" time="0">
+    </testcase>
+    <testcase classname="CSS Lab Tests Portfolio Section should set display to flex for portfolio container" name="CSS Lab Tests Portfolio Section should set display to flex for portfolio container" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Portfolio Section should enable flex-wrap for portfolio container" name="CSS Lab Tests Portfolio Section should enable flex-wrap for portfolio container" time="0">
+    </testcase>
+    <testcase classname="CSS Lab Tests Portfolio Section should justify content to space around for portfolio container" name="CSS Lab Tests Portfolio Section should justify content to space around for portfolio container" time="0">
+    </testcase>
+    <testcase classname="CSS Lab Tests Portfolio Section should add padding of 1em for portfolio container" name="CSS Lab Tests Portfolio Section should add padding of 1em for portfolio container" time="0">
+    </testcase>
+    <testcase classname="CSS Lab Tests Portfolio Section should set background color to #fff for portfolio items" name="CSS Lab Tests Portfolio Section should set background color to #fff for portfolio items" time="0">
+    </testcase>
+    <testcase classname="CSS Lab Tests Portfolio Section should add border of 1px solid #ddd for portfolio items" name="CSS Lab Tests Portfolio Section should add border of 1px solid #ddd for portfolio items" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Portfolio Section should add margin of 1em around each portfolio item" name="CSS Lab Tests Portfolio Section should add margin of 1em around each portfolio item" time="0">
+    </testcase>
+    <testcase classname="CSS Lab Tests Portfolio Section should add padding of 1em on all sides for portfolio items" name="CSS Lab Tests Portfolio Section should add padding of 1em on all sides for portfolio items" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Portfolio Section should apply box shadow for portfolio items" name="CSS Lab Tests Portfolio Section should apply box shadow for portfolio items" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Portfolio Section should set width to 30% for portfolio items" name="CSS Lab Tests Portfolio Section should set width to 30% for portfolio items" time="0.002">
+    </testcase>
+    <testcase classname="CSS Lab Tests Portfolio Section should set box-sizing to border-box for portfolio items" name="CSS Lab Tests Portfolio Section should set box-sizing to border-box for portfolio items" time="0">
+    </testcase>
+    <testcase classname="CSS Lab Tests Portfolio Section should apply transition for transform property for portfolio items" name="CSS Lab Tests Portfolio Section should apply transition for transform property for portfolio items" time="0">
+    </testcase>
+    <testcase classname="CSS Lab Tests Portfolio Section should make the text bold for headings in portfolio items" name="CSS Lab Tests Portfolio Section should make the text bold for headings in portfolio items" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Portfolio Section should add margin-bottom of 0.5em for headings in portfolio items" name="CSS Lab Tests Portfolio Section should add margin-bottom of 0.5em for headings in portfolio items" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Portfolio Section should add margin-bottom of 0.5em for paragraphs in portfolio items" name="CSS Lab Tests Portfolio Section should add margin-bottom of 0.5em for paragraphs in portfolio items" time="0">
+    </testcase>
+    <testcase classname="CSS Lab Tests Portfolio Section should set color to #666 for paragraphs in portfolio items" name="CSS Lab Tests Portfolio Section should set color to #666 for paragraphs in portfolio items" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Portfolio Section should set width to 100% for images in portfolio items" name="CSS Lab Tests Portfolio Section should set width to 100% for images in portfolio items" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Portfolio Section should apply box shadow for images in portfolio items" name="CSS Lab Tests Portfolio Section should apply box shadow for images in portfolio items" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Hover Effect for Portfolio Items should scale portfolio items when hovered over" name="CSS Lab Tests Hover Effect for Portfolio Items should scale portfolio items when hovered over" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Footer should set background color to #222" name="CSS Lab Tests Footer should set background color to #222" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Footer should set text color to #fff" name="CSS Lab Tests Footer should set text color to #fff" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Footer should add padding of 2em" name="CSS Lab Tests Footer should add padding of 2em" time="0">
+    </testcase>
+    <testcase classname="CSS Lab Tests Footer should center-align the text" name="CSS Lab Tests Footer should center-align the text" time="0">
+    </testcase>
+    <testcase classname="CSS Lab Tests Footer should set position to relative" name="CSS Lab Tests Footer should set position to relative" time="0">
+    </testcase>
+    <testcase classname="CSS Lab Tests Footer should set bottom to 0" name="CSS Lab Tests Footer should set bottom to 0" time="0.001">
+    </testcase>
+    <testcase classname="CSS Lab Tests Footer should set width to 100%" name="CSS Lab Tests Footer should set width to 100%" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
